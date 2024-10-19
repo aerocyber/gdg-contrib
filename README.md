@@ -24,7 +24,7 @@ At our core, we believe that technology is a powerful force for positive change.
 
 Join us today and become a part of a vibrant community dedicated to the exciting world of technology. We can't wait to learn, grow, and innovate together!
 
-## GDSC AJCE Website
+## GDG AJCE Website
 
 Visit the site here => https://gdsc-ajce.github.io/home/
 
